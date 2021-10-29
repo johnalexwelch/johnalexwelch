@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[About working with me](https://coda.io/@alex-welch/meet-alex)
+
+🛠️ Current Projects
+
+- [With Advantage](www.withadvantage.io)
+
+
 <!--
 **johnalexwelch/johnalexwelch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
